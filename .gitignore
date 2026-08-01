@@ -1,0 +1,9 @@
+﻿# Keep this marketing repo free of application source.
+*
+!.gitignore
+!README.md
+!LICENSE
+!docs/
+!docs/**
+!assets/
+!assets/**
