@@ -12,14 +12,6 @@ Cinelith is a desktop AI editing assistant: analyze your footage on your machine
 - **Local-first** — analysis and planning run on your machine
 - **NLE-friendly export** — timeline packages you can open and refine in your editor of choice
 
-## Website
-
-Product site, demos, and release countdown:
-
-**https://cinelith.com**
-
-*(If the domain is not live yet in your region, check back shortly — this README is the GitHub landing page.)*
-
 ## Stay in the loop
 
 - Star this repo to get notified of releases
