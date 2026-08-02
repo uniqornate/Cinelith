@@ -1,8 +1,7 @@
-﻿<p align="center">
-  <img src="assets/cinelith_logo_square.png" alt="Cinelith" width="160" height="160" />
-</p>
-
-<h1 align="center">Cinelith</h1>
+﻿<h1 align="center">
+  <img src="assets/cinelith_logo_square.png" alt="" width="160" height="160" /><br />
+  <img src="assets/cinelith_wordmark.svg" alt="Cinelith" width="400" />
+</h1>
 
 <p align="center"><strong>Local-first AI rough cuts that bridge into your NLE.</strong></p>
 
